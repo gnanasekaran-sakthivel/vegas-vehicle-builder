@@ -44,10 +44,17 @@ One of the options is to print the details of the selected vehicle.
 Overall, one can create new vehicles, and perform actions on the existing vehicles.  
 All the actions are intuitive.  
 
+## Walkthrough Video
+
+[Walkthrough Video](https://drive.google.com/file/d/1r9RM7dAP4jIFCGCbhSAlHu7I69GaKFxo/preview)
 
 ## Credits
 Libraries used: Typescript and Inquirer.
 This application downloaded started code that was provided as part of challenge 08, from the edX FullStack Bootcamp class training materials.
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 
